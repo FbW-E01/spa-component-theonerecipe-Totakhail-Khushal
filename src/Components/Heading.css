@@ -1,0 +1,22 @@
+.heading {
+  background: linear-gradient(to bottom right, darkmagenta, red);
+  /* -webkit-background-clip: text; */
+  /* -webkit-text-fill-color: transparent; */
+}
+
+.heading {
+  font-size: 1.2rem;
+  text-align: center;
+  background-image: url(./Brownies.jpg);
+  color: rgb(143, 86, 86);
+  background-repeat: no-repeat;
+  border-radius: 20px;
+  background-size: cover;
+  width: 800px;
+  height: 600px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 40px;
+}
